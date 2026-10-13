@@ -1,0 +1,6 @@
+{
+  "name": "Mirrorist Unisex Salon | Luxury Hair, Beauty & Grooming Studio Jaipur",
+  "description": "Official website for Mirrorist Unisex Salon in Vaishali Nagar, Jaipur. Book appointments online, view service menu, before-after transformations gallery, beauty journal, and get Google Maps directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
